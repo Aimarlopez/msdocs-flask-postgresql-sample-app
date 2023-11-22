@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'demoapp-aim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7ECC4EFA8633451B88DCD5105F104097 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28645ED1D6624BCD8365A2C72E473F10 }}
